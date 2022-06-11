@@ -30,6 +30,6 @@ Sprites créés par:
 - Legnops : Red hood pixel character
 - Kronovi : Undead Executioner 
 
-Version: 
-  V 1.5.1 du 11 juin 2022: réglages de bugs de sauvegarde
+#### Version: 
+  V 1.5.1 du 11 juin 2022: règlages de bugs de sauvegarde
  
