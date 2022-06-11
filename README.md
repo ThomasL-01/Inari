@@ -16,7 +16,6 @@ Pour plus d'informations sur comment jouer je vous invite à aller consulter le 
 La sauvegarde sutilise un pseudo original et un mot de passe confidentiel.
 La progression du joueur est peut être sauvgardée d'une partie à l'autre avec la touche 'm'
 
-
 #### Developpement
 Pour plus d'informations sur le développement du jeu je vous invite à aller voir le PDF 'Inari info dev' après avoir testé le jeu (sinon certaines
 fonctionnalitées du jeu seront dévoilées prématurément)
