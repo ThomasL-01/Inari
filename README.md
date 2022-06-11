@@ -32,5 +32,5 @@ Sprites créés par:
 - Kronovi : Undead Executioner 
 
 #### Version: 
-  V 1.5.1 du 11 juin 2022: règlages de bugs de sauvegarde
+  V 1.5.1 du 11 juin 2022: règlages de bugs de sauvegarde et d'équilibrage
  
