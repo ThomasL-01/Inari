@@ -20,7 +20,7 @@ La progression du joueur est peut être sauvgardée d'une partie à l'autre avec
 #### Developpement
 Pour plus d'informations sur le développement du jeu je vous invite à aller voir le PDF 'Inari info dev' après avoir testé le jeu (sinon certaines
 fonctionnalitées du jeu seront dévoilées prématurément)
-Je sais il y a plus optimisé, je travaille dessus.
+Je sais il n'est pas très optimisé, je travaille dessus.
 
 ######
 Bon jeu !!
