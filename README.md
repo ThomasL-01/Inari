@@ -1,6 +1,6 @@
 # Inari
 
-### Prérequis:
+## PRÉREQUIS:
 - Python 3.8 ou versions ultérieures
 - pygame 2.0 ou versions ultérieures. Pour installer: pip install pygame
 
