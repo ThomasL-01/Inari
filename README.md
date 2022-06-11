@@ -18,7 +18,7 @@ Pour plus d'informations sur le développement du jeu je vous invite à aller vo
 fonctionnalitées du jeu seront dévoilées prématurément)
 
 ######
-Bon test du jeu !!
+Bon jeu !!
 
 #### Credits
 Sprites créés par:
