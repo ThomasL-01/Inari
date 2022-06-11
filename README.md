@@ -1,5 +1,9 @@
 # Inari
 
+### Prérequis:
+- Python 3.8 ou versions ultérieures
+- pygame 2.0 ou versions ultérieures. Pour installer: pip install pygame
+
 ### DEMARRAGE:
 Pour le démarrage il suffit de lancer main.py (dans le fichier code)
 
