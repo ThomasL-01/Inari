@@ -7,6 +7,7 @@
 
 ### DEMARRAGE:
 Pour le démarrage il suffit de lancer main.py (dans le fichier code)
+Le premier démarrage peut être long (entre 10 et 30 secondes en fonctions des perfs de votre odri)
 
 ### FONCTIONNEMENT:
 Inari est un jeu où le joueur devra explorer un labyrinthe et en trouver la sortie.
