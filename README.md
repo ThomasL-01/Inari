@@ -26,12 +26,5 @@ Je sais il n'est pas très optimisé, je travaille dessus.
 ######
 Bon jeu !!
 
-#### Credits
-Sprites créés par:
-- Jesse Munguia : Skeleton Sprite Pack
-- Legnops : Red hood pixel character
-- Kronovi : Undead Executioner 
-
 #### Version: 
   V 1.5.1 du 11 juin 2022: règlages de bugs de sauvegarde et d'équilibrage
- 
