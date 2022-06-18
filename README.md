@@ -3,7 +3,7 @@
 ## PRÉREQUIS:
 - Python 3.8 ou versions ultérieures
 - Pygame 2.0 ou versions ultérieures. Pour installer: pip install pygame
-- Numpy. Pour installer: conda install numpy
+- Numpy. Pour installer: pip install numpy ou conda install numpy
 
 ### DEMARRAGE:
 Pour le démarrage il suffit de lancer main.py (dans le fichier code)
