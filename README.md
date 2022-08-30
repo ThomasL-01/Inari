@@ -12,11 +12,11 @@ Le premier démarrage peut être long (entre 10 et 30 secondes en fonctions des 
 ### FONCTIONNEMENT:
 Inari est un jeu où le joueur devra explorer un labyrinthe et en trouver la sortie.
 Pour plus d'informations sur comment jouer je vous invite à aller consulter le PDF 'Inari notice'
+Besoin d'une pause ? Le menu pause (touche'm') vous permet de revenir à lécran titre !
 
 ### SAUVEGARDE:
-
 La sauvegarde sutilise un pseudo original et un mot de passe confidentiel.
-La progression du joueur est peut être sauvgardée d'une partie à l'autre avec la touche 'm'
+La progression du joueur est peut être sauvgardée d'une partie à l'autre avec la touche 's'
 
 
 ######
