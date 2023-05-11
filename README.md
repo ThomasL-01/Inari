@@ -22,5 +22,7 @@ La progression du joueur est peut être sauvgardée d'une partie à l'autre avec
 ######
 Bon jeu !!
 
+##### Bravo à RaÏzza pour avoir créé la plus grosse partie graphics
+
 #### Version: 
   V 1.5.1 du 11 juin 2022: règlages de bugs de sauvegarde et d'équilibrage
