@@ -16,7 +16,7 @@ Besoin d'une pause ? Le menu pause (touche'm') vous permet de revenir à lécran
 
 ### SAUVEGARDE:
 La sauvegarde sutilise un pseudo original et un mot de passe confidentiel.
-La progression du joueur est peut être sauvgardée d'une partie à l'autre avec la touche 's'
+La progression du joueur est peut être sauvgardée à chaque passage de porte colorée mais aussi en quittant le jeu en revenant sur l'écran titre.
 
 
 ######
