@@ -26,3 +26,5 @@ Bon jeu !!
 
 #### Version: 
   V 1.5.1 du 11 juin 2022: règlages de bugs de sauvegarde et d'équilibrage
+  
+  Et au fait, le code est pas beaucoup commenté, étant donné que quand je travaillais dessus j'étais seul et je savais ce que je faisais
