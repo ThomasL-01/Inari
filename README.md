@@ -1,7 +1,7 @@
 # Inari
 
 ## PRÉREQUIS:
-- Python 3.8 ou versions ultérieures
+- Python 3.11
 - Pygame 2.0 ou versions ultérieures. Pour installer: pip install pygame
 - Numpy. Pour installer: pip install numpy ou conda install numpy
 
@@ -25,6 +25,6 @@ Bon jeu !!
 ##### Bravo à RaÏzza pour avoir créé la plus grosse partie graphics
 
 #### Version: 
-  V 1.5.1 du 11 juin 2022: règlages de bugs de sauvegarde et d'équilibrage
+  V 1.5.2 du 25 juillet 2023: règlages de bugs et équilibrage
   
   Et au fait, le code est pas beaucoup commenté, étant donné que quand je travaillais dessus seul, je savais ce que je faisais
