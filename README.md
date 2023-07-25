@@ -15,8 +15,8 @@ Pour plus d'informations sur comment jouer je vous invite à aller consulter le 
 Besoin d'une pause ? Le menu pause (touche'm') vous permet de revenir à lécran titre !
 
 ### SAUVEGARDE:
-La sauvegarde sutilise un pseudo original et un mot de passe confidentiel.
-La progression du joueur est peut être sauvgardée à chaque passage de porte colorée mais aussi en quittant le jeu en revenant sur l'écran titre.
+La sauvegarde utilise un pseudo original et un mot de passe confidentiel.
+La progression du joueur est peut être sauvgardée en cliquant sur la touche 's' mais aussi en quittant le jeu en revenant sur l'écran titre.
 
 
 ######
